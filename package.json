@@ -1,0 +1,14 @@
+{
+  "name": "react-ecommerce",
+  "version": "1.0.0",
+  "description": "An ecommerce app built using REACT framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
+}
